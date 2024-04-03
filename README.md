@@ -1,3 +1,3 @@
 #### DevOps_Projects :purple_heart:
 
-[Basit Komutlar]("/Terraform/Hands_On/basic_command/main.tf")
+- [:purple_heart:] [Terraform with nginx](/Terraform/Hands_On/basic_command/main.tf)
